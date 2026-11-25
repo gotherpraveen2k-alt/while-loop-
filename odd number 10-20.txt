@@ -1,0 +1,4 @@
+A=11
+while A<20:
+     print(A)
+     A=A+2

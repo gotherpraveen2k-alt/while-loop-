@@ -1,0 +1,4 @@
+A=-1
+while A>=-50:
+      print(A)
+      A=A-1

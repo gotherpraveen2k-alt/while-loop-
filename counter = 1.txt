@@ -1,0 +1,9 @@
+counter = 1
+sum = 0
+while counter <= 5:
+     number = int(input("Enter A Number: "))
+     
+     sum = sum + number
+     
+     counter += 1
+print(sum)

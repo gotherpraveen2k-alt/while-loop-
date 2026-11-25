@@ -1,0 +1,4 @@
+Number=1
+while Number<=50:
+       print(Number)
+       Number=Number+1
