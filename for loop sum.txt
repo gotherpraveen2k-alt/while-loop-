@@ -1,0 +1,5 @@
+Sum=0
+for x in range(1,6):
+        N=int(input("Ener a number:"))
+        Sum=N+ Sum
+print(Sum)
